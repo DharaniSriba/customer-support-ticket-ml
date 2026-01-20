@@ -51,3 +51,4 @@ A Gradio web interface allows users to input or select ticket text and view pred
 - Rule-based entity extraction
 - Traditional ML models only
 
+## Try app at https://dc20e9e9a1abf3c2b5.gradio.live/
